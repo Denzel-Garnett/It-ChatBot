@@ -1,5 +1,3 @@
-# It Helpdesk ChatBot
-IT helpdesk application with AI chat and ticket management system
 
 
 # IT Helpdesk Bot
